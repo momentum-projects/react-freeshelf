@@ -1,6 +1,11 @@
 # React Freeshelf
 
-Your project is to build a single-page application that displays books using React. You should use `npx create-react-app .` (❗ notice the final dot in that command) to create the application in this repo, and build from there.
+Your project is to build a single-page application that displays books using React. You do not need to run any command to create an application because there already is a React application in this repo.
+
+To get started with local development:
+1. Clone this repo and `cd` into it.
+2. Run `npm install` (just like that) to install all the dependencies that are listed in the package.json file.
+3. Open the project and get to work in the `src` folder!
 
 The finished product will look like the included wireframe. When the information for a book is clicked, the section expands to show additional information about the book. When it is clicked again, it should collapse back to the original view. This behavior is commonly referred to as a disclosure, as described in [this Web Accessibility (A11y) practices document with examples](https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/). 
 
